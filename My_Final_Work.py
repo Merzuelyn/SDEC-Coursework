@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 
 st.write("""
-# Lets see type of Iris Flower!
+# Check out 3 type of Iris Flower!
 This app predicts the **Iris flower** type!
 """)
 
