@@ -26,6 +26,8 @@ df = user_input_features()
 
 st.subheader('User Input parameters')
 st.write(df)
+
+
 iris = pd.read_csv('https://raw.githubusercontent.com/Merzuelyn/SDEC-Coursework/main/IRIS.csv')
 X = iris.data
 Y = iris.target
