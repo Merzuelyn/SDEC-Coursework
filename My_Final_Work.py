@@ -5,7 +5,8 @@ from sklearn.ensemble import RandomForestClassifier
 
 st.write("""
 # Check out 3 type of Iris Flower!
-st.image("https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/02/iris-machinelearning.png")
+st.image("")
+
 
 st.sidebar.header('You can change the Input Parameters by your own')
 
